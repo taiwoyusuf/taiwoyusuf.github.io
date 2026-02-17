@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-COBIT-Chain™ is a governance-first assurance concept for regulated environments—designed to improve auditability, control evidence, and operational accountability across high-compliance processes (e.g., clinical trials and regulated IT operations). The framework emphasizes controls, traceability, and implementation blueprints rather than building a full platform.
+COBIT-Chain™ is a governance-first assurance concept for regulated environments-designed to improve auditability, control evidence, and operational accountability across high-compliance processes (e.g., clinical trials and regulated IT operations). The framework emphasizes controls, traceability, and implementation blueprints rather than building a full platform.
 
 ---
 
