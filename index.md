@@ -3,7 +3,7 @@
 
 COBIT-Chain™ is a governance-first framework developed to operationalize enterprise governance expectations for emerging and distributed digital systems. Developed through MBA research at the University of Wolverhampton, the framework translates COBIT 2019 principles into practical, measurable governance architectures for regulated environments including pharmaceuticals, healthcare, and infrastructure operations.
 
-Unlike technology-centric implementation models, COBIT-Chain™ focuses on governance operationalization - defining accountable roles, measurable controls, performance evidence, and continuous assurance mechanisms that enable organizations to demonstrate governance effectiveness across complex digital ecosystems.
+Unlike technology-centric implementation models, COBIT-Chain™ focuses on governance operationalization — defining accountable roles, measurable controls, performance evidence, and continuous assurance mechanisms that enable organizations to demonstrate governance effectiveness across complex digital ecosystems.
 
 ---
 
@@ -25,26 +25,22 @@ The research applies a design-science methodology combining literature synthesis
 
 ## **Applications of COBIT-Chain™**
 
-### **Blockchain Governance (MBA Research Focus)**
-
+### **Blockchain Governance (MBA Research Focus)**  
 Designing governance architecture for blockchain integration into regulated clinical trial environments, emphasizing control accountability, auditability, and assurance reporting.
 
 ---
 
-### **Digital Chain-of-Custody Governance (EUC Operations)**
-
+### **Digital Chain-of-Custody Governance (EUC Operations)**  
 Prototype governance model for asset custody workflows in regulated enterprise IT environments, focusing on traceability, accountability, and SLA governance.
 
 ---
 
-### **Pharmacy and Compounding Governance Environments**
-
+### **Pharmacy and Compounding Governance Environments**  
 Developing governance overlays for distributed medication workflows with emphasis on compliance, audit readiness, and operational visibility.
 
 ---
 
-### **Distributed Care Delivery Governance (Homecare)**
-
+### **Distributed Care Delivery Governance (Homecare)**  
 Applying COBIT-aligned governance models to decentralized service delivery environments requiring standardized accountability structures.
 
 ---
@@ -71,6 +67,9 @@ Governance Models]
 C4[Homecare Governance  
 Distributed Care Delivery]
 
+C5[Internet & Enterprise Routing Governance  
+(Control-plane governance, inter-router trust, routing assurance)]
+
 D[Operational Control Systems  
 Power Platform • SharePoint • Intune]
 
@@ -82,11 +81,13 @@ B --> C1
 B --> C2
 B --> C3
 B --> C4
+B --> C5
 
 C1 --> D
 C2 --> D
 C3 --> D
 C4 --> D
+C5 --> D
 
 D --> E
 E --> A
@@ -96,7 +97,14 @@ E --> A
 
 ## **Research Direction**
 
-Ongoing research extends COBIT-Chain™ toward governance architectures for emerging technologies, blockchain governance orchestration models, digital assurance analytics frameworks, and governance readiness for post-quantum cryptographic environments.
+Ongoing research extends COBIT-Chain™ toward governance architectures for emerging technologies including:
+
+• blockchain governance orchestration models  
+• digital assurance analytics frameworks  
+• blockchain-enabled Internet and enterprise routing governance architectures (including routing control-plane governance, inter-router trust models, and routing assurance mechanisms)  
+• governance readiness for post-quantum cryptographic environments  
+
+These research directions explore how governance-first control models can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
 
 ---
 
