@@ -1,10 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  mermaid.initialize({ startOnLoad: true });
-});
-</script>
 # **COBIT-Chain™**  
 ### *A Governance Framework for Regulated Digital Environments*
 
