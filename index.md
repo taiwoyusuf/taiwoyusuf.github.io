@@ -55,29 +55,7 @@ Ongoing research extends COBIT-Chain™ toward:
 • digital assurance analytics frameworks
 • governance readiness for post-quantum cryptographic environments
 
-About
+**About**
 
 Taiwo Yusuf is an MBA researcher focused on governance-first operational models for regulated IT environments. His work applies COBIT 2019 principles to governance architecture design across pharmaceutical, healthcare, and infrastructure domains, with emphasis on control assurance, audit readiness, and operational traceability.
 ---
-
-## Architecture diagram
-
-```mermaid
-flowchart TB
-  A[COBIT 2019 Governance Framework<br/>EDM - APO - BAI - DSS - MEA]
-  B[Operational Control Modules]
-  C1[Asset Custody Control]
-  C2[FedEx Cart SLA Control]
-  C3[Device Aging and FIFO Control]
-  D[Application Layer<br/>Power Platform - SharePoint - Intune]
-  E[Assurance Layer<br/>Power BI Monitoring and Reporting]
-  A --> B
-  B --> C1
-  B --> C2
-  B --> C3
-  C1 --> D
-  C2 --> D
-  C3 --> D
-  D --> E
-  E --> A
-
