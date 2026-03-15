@@ -1,51 +1,63 @@
 # COBIT-Chain™
 
-**Governance-first operational control model for regulated IT environments**
-
-**Author:** Taiwo Yusuf  
-**Academic affiliation:** University of Wolverhampton (MBA)  
-**Framework foundation:** COBIT 2019  
-**Focus:** IT Governance - Asset lifecycle control - Digital assurance - GxP-aligned operations
-
----
-
 COBIT-Chain™
 A Governance Framework for Regulated Digital Environments
 
-COBIT-Chain™ is a governance-first framework designed to operationalize enterprise governance expectations for emerging and distributed digital systems.
+COBIT-Chain™ is a governance-first framework developed to operationalize enterprise governance expectations for emerging and distributed digital systems. Developed through MBA research at the University of Wolverhampton, the framework translates COBIT 2019 principles into practical, measurable governance architectures for regulated environments including pharmaceuticals, healthcare, and infrastructure operations.
 
-Developed through MBA research at the University of Wolverhampton, COBIT-Chain™ translates COBIT 2019 principles into practical, measurable governance architectures spanning regulated industries including pharmaceuticals, healthcare, and infrastructure systems.
+Unlike technology-centric implementation models, COBIT-Chain™ focuses on governance operationalization — defining accountable roles, measurable controls, performance evidence, and continuous assurance mechanisms that enable organizations to demonstrate governance effectiveness across complex digital ecosystems.
 
-Core Concept
+Core Governance Model
 
 COBIT-Chain™ provides a structured governance artefact that links:
 
 • governance objectives
-• operational controls
-• accountable roles
-• performance evidence
-• continuous assurance monitoring
+• operational control design
+• RACI accountability structures
+• control-to-evidence traceability
+• KPI-driven performance assurance
+• continuous monitoring and review cadence
 
-into a unified control-to-evidence governance model.
+into a unified governance architecture aligned to COBIT domains (EDM, APO, BAI, DSS, MEA).
 
-Applications
+Research Context
 
-COBIT-Chain™ has been applied across:
+Current research develops COBIT-Chain™ as a governance artefact for blockchain adoption in regulated clinical trial ecosystems. The framework addresses a critical gap between technical feasibility and enterprise governance readiness by translating governance expectations into auditable operational control structures.
 
-• blockchain governance in clinical trial ecosystems (MBA research)
-• EUC operational chain-of-custody governance
-• pharmacy and compounding governance environments
-• distributed care delivery operations
+The research applies a design-science methodology combining literature synthesis, governance artefact design, and expert validation through structured interviews and thematic analysis.
+
+Applications of COBIT-Chain™
+
+The framework has been applied across multiple regulated operational contexts:
+
+Blockchain Governance (MBA Research Focus)
+
+Designing governance architecture for blockchain integration into regulated clinical trial environments, emphasizing control accountability, auditability, and assurance reporting.
+
+Digital Chain-of-Custody Governance (EUC Operations)
+
+Prototype governance model for asset custody workflows in regulated enterprise IT environments, focusing on traceability, accountability, and SLA governance.
+
+Pharmacy and Compounding Governance Environments
+
+Developing governance overlays for distributed medication workflows with emphasis on compliance, audit readiness, and operational visibility.
+
+Distributed Care Delivery Governance (Homecare)
+
+Applying COBIT-aligned governance models to decentralized service delivery environments requiring standardized accountability structures.
 
 Research Direction
 
-Current research focuses on:
+Ongoing research extends COBIT-Chain™ toward:
 
-• governance architectures for blockchain adoption
-• digital chain-of-custody control systems
-• post-quantum governance readiness
-• infrastructure-scale governance orchestration
+• governance architectures for emerging technologies
+• blockchain governance orchestration models
+• digital assurance analytics frameworks
+• governance readiness for post-quantum cryptographic environments
 
+About
+
+Taiwo Yusuf is an MBA researcher focused on governance-first operational models for regulated IT environments. His work applies COBIT 2019 principles to governance architecture design across pharmaceutical, healthcare, and infrastructure domains, with emphasis on control assurance, audit readiness, and operational traceability.
 ---
 
 ## Architecture diagram
