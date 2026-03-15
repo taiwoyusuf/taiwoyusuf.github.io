@@ -79,10 +79,10 @@ E --> A
 
 Ongoing research extends COBIT-Chain™ toward governance architectures for emerging technologies including:
 
-• blockchain governance orchestration models  
-• digital assurance analytics frameworks  
-• blockchain-enabled Internet and enterprise routing governance architectures (including routing control-plane governance, inter-router trust models, and routing assurance mechanisms)  
-• governance readiness for post-quantum cryptographic environments  
+1 blockchain governance orchestration models  
+2 digital assurance analytics frameworks  
+3 blockchain-enabled Internet and enterprise routing governance architectures (including routing control-plane governance, inter-router trust models, and routing assurance mechanisms)  
+4 governance readiness for post-quantum cryptographic environments  
 
 These research directions explore how governance-first control models can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
 
