@@ -90,3 +90,11 @@ C4 --> D
 
 D --> E
 E --> A
+
+Research Direction
+
+Ongoing research extends COBIT-Chain™ toward governance architectures for emerging technologies, blockchain governance orchestration models, digital assurance analytics frameworks, and governance readiness for post-quantum cryptographic environments.
+
+About
+
+Taiwo Yusuf is an MBA researcher focused on governance-first operational models for regulated IT environments. His work applies COBIT 2019 principles to governance architecture design across pharmaceutical, healthcare, and infrastructure domains, with emphasis on control assurance, audit readiness, and operational traceability.
