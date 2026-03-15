@@ -47,7 +47,6 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## **Framework Architecture**
 
-```mermaid
 flowchart TB
 
 A[COBIT-Chain™ Governance Framework  
@@ -91,8 +90,6 @@ C5 --> D
 
 D --> E
 E --> A
-```
-
 ---
 
 ## **Research Direction**
