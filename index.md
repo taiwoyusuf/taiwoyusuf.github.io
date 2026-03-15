@@ -47,49 +47,8 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## **Framework Architecture**
 
-flowchart TB
+![COBIT-Chain Architecture](assets/cobit-chain-architecture.svg)
 
-A[COBIT-Chain™ Governance Framework  
-EDM • APO • BAI • DSS • MEA]
-
-B[Governance Operating Layer]
-
-C1[Blockchain Governance  
-Clinical Trial Ecosystems]
-
-C2[Digital Chain-of-Custody  
-EUC Operations]
-
-C3[Pharmacy & Compounding  
-Governance Models]
-
-C4[Homecare Governance  
-Distributed Care Delivery]
-
-C5[Internet & Enterprise Routing Governance  
-(Control-plane governance, inter-router trust, routing assurance)]
-
-D[Operational Control Systems  
-Power Platform • SharePoint • Intune]
-
-E[Assurance & Analytics Layer  
-Power BI Monitoring & Reporting]
-
-A --> B
-B --> C1
-B --> C2
-B --> C3
-B --> C4
-B --> C5
-
-C1 --> D
-C2 --> D
-C3 --> D
-C4 --> D
-C5 --> D
-
-D --> E
-E --> A
 ---
 
 ## **Research Direction**
