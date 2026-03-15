@@ -28,17 +28,11 @@ The research applies a design-science methodology combining literature synthesis
 ### **Blockchain Governance (MBA Research Focus)**  
 Designing governance architecture for blockchain integration into regulated clinical trial environments, emphasizing control accountability, auditability, and assurance reporting.
 
----
-
 ### **Digital Chain-of-Custody Governance (EUC Operations)**  
 Prototype governance model for asset custody workflows in regulated enterprise IT environments, focusing on traceability, accountability, and SLA governance.
 
----
-
 ### **Pharmacy and Compounding Governance Environments**  
 Developing governance overlays for distributed medication workflows with emphasis on compliance, audit readiness, and operational visibility.
-
----
 
 ### **Distributed Care Delivery Governance (Homecare)**  
 Applying COBIT-aligned governance models to decentralized service delivery environments requiring standardized accountability structures.
@@ -47,7 +41,37 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## **Framework Architecture**
 
-![COBIT-Chain Architecture](assets/cobit-chain-architecture.svg)
+```mermaid
+flowchart TB
+
+A[COBIT Chain Governance Framework]
+B[Governance Operating Layer]
+
+C1[Blockchain Governance Clinical Trials]
+C2[Digital Chain of Custody EUC]
+C3[Pharmacy and Compounding Governance]
+C4[Homecare Governance Models]
+C5[Internet and Enterprise Routing Governance]
+
+D[Operational Control Systems]
+E[Assurance and Analytics Layer]
+
+A --> B
+B --> C1
+B --> C2
+B --> C3
+B --> C4
+B --> C5
+
+C1 --> D
+C2 --> D
+C3 --> D
+C4 --> D
+C5 --> D
+
+D --> E
+E --> A
+```
 
 ---
 
