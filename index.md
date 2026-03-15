@@ -3,7 +3,7 @@
 
 COBIT-Chain™ is a governance-first framework developed to operationalize enterprise governance expectations for emerging and distributed digital systems. Developed through MBA research at the University of Wolverhampton, the framework translates COBIT 2019 principles into practical, measurable governance architectures for regulated environments including pharmaceuticals, healthcare, and infrastructure operations.
 
-Unlike technology-centric implementation models, COBIT-Chain™ focuses on governance operationalization — defining accountable roles, measurable controls, performance evidence, and continuous assurance mechanisms that enable organizations to demonstrate governance effectiveness across complex digital ecosystems.
+Unlike technology-centric implementation models, COBIT-Chain™ focuses on governance operationalization - defining accountable roles, measurable controls, performance evidence, and continuous assurance mechanisms that enable organizations to demonstrate governance effectiveness across complex digital ecosystems.
 
 ---
 
