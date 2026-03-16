@@ -1,4 +1,4 @@
-COBIT-Chain™ is a governance architecture research framework developed within the context of MBA research at the University of Wolverhampton, focused on operationalizing COBIT 2019 governance principles for regulated digital ecosystems.
+COBIT-Chain™ is a governance architecture research framework developed through MBA research at the University of Wolverhampton, focused on operationalizing COBIT 2019 principles into auditable governance architectures for regulated digital ecosystems.
 # **COBIT-Chain™**  
 Developed as part of MBA research in governance architecture design, COBIT-Chain™ explores how enterprise governance principles can be translated into operational control systems capable of supporting accountability, audit readiness, and digital trust across complex regulated environments.
 ### *A Governance Architecture Framework for Regulated Digital Ecosystems*
@@ -22,7 +22,7 @@ The model emphasizes translating governance expectations into measurable operati
 Current research develops COBIT-Chain™ as a governance artefact for blockchain adoption in regulated clinical trial ecosystems. The framework addresses a critical gap between technical feasibility and enterprise governance readiness by translating governance expectations into auditable operational control structures.
 
 The research applies a design-science methodology combining literature synthesis, governance artefact design, and expert validation through structured interviews and thematic analysis.
-
+The research positions COBIT-Chain™ as a governance-first operationalization model rather than a technology implementation framework.
 ---
 
 ## **Applications of COBIT-Chain™**
@@ -50,8 +50,7 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## **Research Direction**
 
-
-Ongoing research extends COBIT-Chain™ toward governance architectures for emerging and regulated digital environments including:
+Ongoing research extends COBIT-Chain™ as a governance architecture research program across emerging and regulated digital environments including:
 
 1. **Blockchain governance orchestration models** for regulated clinical trial ecosystems and distributed research networks.
 
