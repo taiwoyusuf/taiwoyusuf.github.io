@@ -42,7 +42,7 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 ---
 
 ## Framework Architecture
-
+The conceptual architecture of COBIT-Chain™ illustrates how governance orchestration layers translate into operational control systems and assurance analytics capabilities.
 <p align="center">
   <img src="./cobit-chain-architecture-hd-v2.png.png" width="950"/>
 </p>
