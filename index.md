@@ -48,15 +48,20 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## **Research Direction**
 
-Ongoing research extends COBIT-Chain™ toward governance architectures for emerging technologies including:
 
-1. Blockchain governance orchestration models  
-2. Digital assurance analytics frameworks  
-3. Blockchain-enabled Internet and enterprise routing governance architectures (including routing control-plane governance, inter-router trust models, and routing assurance mechanisms)  
-4. Governance readiness for post-quantum cryptographic environments  
+Ongoing research extends COBIT-Chain™ toward governance architectures for emerging and regulated digital environments including:
 
-These research directions explore how governance-first control models can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
+1. **Blockchain governance orchestration models** for regulated clinical trial ecosystems and distributed research networks.
 
+2. **Digital assurance analytics frameworks** for operational governance monitoring, audit readiness validation, and continuous control evidence generation.
+
+3. **Pharmaceutical traceability governance architectures**, including DSCSA interoperability models and governance overlays for **compound pharmacy supply chain traceability** and regulatory accountability.
+
+4. **Blockchain-enabled Internet and enterprise routing governance architectures**, including routing control-plane governance, inter-router trust models, and routing assurance mechanisms for distributed network infrastructures.
+
+5. **Governance readiness for post-quantum cryptographic environments**, addressing long-term digital trust, infrastructure resilience, and governance adaptation to emerging cryptographic standards.
+
+These research directions explore how governance-first control architectures can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
 ---
 
 ## **About**
