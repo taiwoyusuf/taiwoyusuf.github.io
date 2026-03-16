@@ -1,6 +1,7 @@
 COBIT-Chain™ is a governance architecture research framework developed within the context of MBA research at the University of Wolverhampton, focused on operationalizing COBIT 2019 governance principles for regulated digital ecosystems.
 # **COBIT-Chain™**  
-### *A Governance Framework for Regulated Digital Environments*
+Developed as part of MBA research in governance architecture design, COBIT-Chain™ explores how enterprise governance principles can be translated into operational control systems capable of supporting accountability, audit readiness, and digital trust across complex regulated environments.
+### *A Governance Architecture Framework for Regulated Digital Ecosystems*
 
 COBIT-Chain™ is a governance-first framework developed to operationalize enterprise governance expectations for emerging and distributed digital systems. Developed through MBA research at the University of Wolverhampton, the framework translates COBIT 2019 principles into practical, measurable governance architectures for regulated environments including pharmaceuticals, healthcare, and infrastructure operations.
 
