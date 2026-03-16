@@ -64,6 +64,7 @@ Ongoing research extends COBIT-Chain™ toward governance architectures for emer
 These research directions explore how governance-first control architectures can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
 ---
 
+
 ## Research Portfolio
 
 The COBIT-Chain™ framework is being developed as a family of governance architectures that operationalize COBIT 2019 principles across different regulated and distributed technology environments. Each research stream focuses on translating governance expectations into auditable operational control structures.
