@@ -64,6 +64,34 @@ Ongoing research extends COBIT-Chain™ toward governance architectures for emer
 These research directions explore how governance-first control architectures can scale across increasingly complex and decentralized digital environments while maintaining accountability, traceability, and audit readiness.
 ---
 
+## Research Portfolio
+
+The COBIT-Chain™ framework is being developed as a family of governance architectures that operationalize COBIT 2019 principles across different regulated and distributed technology environments. Each research stream focuses on translating governance expectations into auditable operational control structures.
+
+### COBIT-Chain™ (Clinical Trials Governance)
+
+Governance architecture for blockchain adoption in regulated clinical trial ecosystems.  
+This research focuses on operationalizing governance expectations for patient consent traceability, data integrity assurance, and cross-institutional research collaboration environments.
+
+### COBIT-Chain™ (Digital Chain-of-Custody Governance)
+
+Governance model for enterprise IT asset lifecycle and custody assurance in regulated environments.  
+The model emphasizes traceable custody transitions, SLA accountability structures, and operational audit readiness within enterprise EUC and infrastructure operations.
+
+### COBIT-Chain™ (Pharmaceutical Traceability & DSCSA Governance)
+
+Development of a COBIT-aligned governance overlay for pharmaceutical traceability networks under the Drug Supply Chain Security Act (DSCSA).  
+The model addresses interoperability governance, cross-enterprise data trust assurance, and operational control standardization across pharmaceutical supply chain participants.
+
+### COBIT-Chain™ (Compound Pharmacy Governance Models)
+
+Exploration of governance architectures for distributed compounding pharmacy ecosystems where medication preparation, verification, and distribution require enhanced traceability, compliance oversight, and operational accountability structures.
+
+### COBIT-Chain™ (Routing Governance Architecture)
+
+Research into governance frameworks for Internet and enterprise routing infrastructures.  
+This stream explores how blockchain-enabled trust anchors, routing control-plane governance mechanisms, and inter-router accountability models could improve routing integrity and infrastructure resilience.
+
 ## **About**
 
 Taiwo Yusuf is an MBA researcher focused on governance-first operational models for regulated IT environments. His work applies COBIT 2019 principles to governance architecture design across pharmaceutical, healthcare, and infrastructure domains, with emphasis on control assurance, audit readiness, and operational traceability.
