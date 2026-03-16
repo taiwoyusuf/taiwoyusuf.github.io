@@ -41,7 +41,8 @@ Applying COBIT-aligned governance models to decentralized service delivery envir
 
 ## Framework Architecture
 
-![COBIT-Chain Architecture](cobit-chain-architecture.png.png)
+## Framework Architecture
+![COBIT-Chain Architecture](cobit-chain-architecture.png)
 ---
 
 ## **Research Direction**
