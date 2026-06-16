@@ -214,6 +214,32 @@ His research interests include:
 
 ---
 
+---
+
+## Publications
+
+### Peer-Reviewed Publications
+
+*No peer-reviewed publications at this time.*
+
+---
+## Working Papers
+
+1. **Operationalizing COBIT 2019 for Continuous Audit Evidence Integrity in Regulated Clinical Trial Environments: The COBIT-Chain™ Framework**  
+   *Manuscript in preparation.*
+
+2. **Governance Assurance Engineering: Towards Continuous Operational Trust in Regulated Pharmaceutical Manufacturing**  
+   *Concept paper in development.*
+
+3. **CITrust™: A Governance Assurance Model for ServiceNow CMDB Readiness in GMP Environments**  
+   *Research framework under development.*
+
+4. **Engineering Operational Trust: An AI-Enabled Governance Assurance Framework for Intelligent Pharmaceutical Manufacturing**  
+   *Proposed PhD research direction.*
+
+---
+
+
 ## **Contact**
 
 * **Google Scholar:** 
