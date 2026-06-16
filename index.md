@@ -216,7 +216,7 @@ His research interests include:
 
 ## **Contact**
 
-* **Google Scholar:** [Add Google Scholar profile link]
+* **Google Scholar:** 
 * **ORCID:** Coming soon
-* **LinkedIn:** [Add LinkedIn profile link]
+* **LinkedIn:** https://www.linkedin.com/in/taiwo-m-yusuf-75197520/
 * **GitHub:** https://github.com/taiwoyusuf
