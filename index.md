@@ -220,3 +220,29 @@ His research interests include:
 * **ORCID:** Coming soon
 * **LinkedIn:** https://www.linkedin.com/in/taiwo-m-yusuf-75197520/
 * **GitHub:** https://github.com/taiwoyusuf
+
+---
+
+## Research Timeline
+
+**2026**  
+MBA dissertation submitted: *COBIT-Chain™: A COBIT 2019-Aligned Governance Framework for Blockchain Integration in Regulated Clinical Trial Environments.*
+
+**2026**  
+Google Scholar profile created.
+
+**2026**  
+First journal manuscript in preparation: *Operationalizing COBIT 2019 for Continuous Audit Evidence Integrity in Regulated Clinical Trial Environments.*
+
+**2026–2027**  
+PhD research development focused on Governance Assurance Engineering, AI Governance, Pharmaceutical Manufacturing, and Evidence Integrity.
+
+---
+
+## Research Vision
+
+The long-term vision of COBIT-Chain™ is to establish **Governance Assurance Engineering** as an interdisciplinary research field combining enterprise governance, artificial intelligence, evidence integrity, operational trust, pharmaceutical manufacturing, and regulatory science.
+
+This research aims to help regulated organizations move beyond policy-level compliance toward continuously assured digital ecosystems where controls, evidence, accountability, and operational trust can be measured and demonstrated.
+
+---
