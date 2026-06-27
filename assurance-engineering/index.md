@@ -104,7 +104,7 @@ The Assurance Engineering research program focuses on:
 - Digital quality systems
 - Agentic AI assurance
 - Wearable governance interfaces
-- Continuous inspection readiness
+- Continuous inspection readiness.
 
 ---
 
